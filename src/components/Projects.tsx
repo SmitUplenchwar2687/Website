@@ -13,7 +13,7 @@ export default function Projects() {
     {
       title: "Rice Crop Disease Detection",
       description: "Built a rice crop disease detection model with UAV using Machine Learning and Image Processing",
-      image: "https://unsplash.com/photos/green-grass-field-near-mountain-during-daytime-84JgyHGljkA?auto=format&fit=crop&q=80",
+      image: "https://res.cloudinary.com/dninix0mh/image/upload/c_fit,f_auto,q_80/rice_crop",
       github: "https://github.com/SmitUplenchwar2687/Rice-Crop-Disease-Detection",
       live: "https://example.com",
       tags: ["Python", "TenserFlow", "Pillow"],
