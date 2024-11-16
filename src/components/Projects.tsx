@@ -5,7 +5,7 @@ export default function Projects() {
     {
       title: "Pablo's Therapy",
       description: "Developed a multilingual voice therapy session application powered by generative AI.",
-      image: "https://unsplash.com/photos/brown-concrete-building-during-daytime-nJupV3AOP-U?auto=format&fit=crop&q=80",
+      image: "https://res.cloudinary.com/dninix0mh/image/upload/c_fit,f_auto,q_80/AI_Therapy",
       github: "https://github.com/SmitUplenchwar2687/Pablo-s-Therapy",
       live: "https://example.com",
       tags: ["Python", "WebSocket", "Flutter", "Dart", "MongoDB"],
