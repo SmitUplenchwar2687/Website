@@ -1,22 +1,34 @@
 export default function Experience() {
   const experiences = [
     {
-      company: "Tech Corp",
-      position: "Senior Full Stack Developer",
-      period: "2020 - Present",
-      description: "Led development of multiple high-impact projects, mentored junior developers, and implemented best practices.",
+      company: "o9 Solutions",
+      position: "Software Development Engineer II",
+      period: "02/2024 - 07/2024",
+      description: [
+        "Led development of a Forecast Generation Engine for Demand Planning which is used by 300+ clients all across the globe.",
+        "Optimized the supply planning solver using advanced linear programming and heuristic algorithms, achieving a 93% increase in processing efficiency and significantly enhancing planning accuracy and resource utilization.",
+        "Built reliable and real-time data pipelines for processing sales data using SSIS and IBPL to enhance supply chain operations."
+      ],
     },
     {
-      company: "StartupX",
-      position: "Full Stack Developer",
-      period: "2018 - 2020",
-      description: "Built and maintained scalable web applications, improved performance, and collaborated with cross-functional teams.",
+      company: "o9 Solutions",
+      position: "Software Development Engineer",
+      period: "02/2022 - 02/2024",
+      description: [
+        "Created Forecasting Algorithm Plugins for demand planning, enhancing prediction accuracy by 70% for various industries.",
+        "Created ETL pipelines to process and transform large datasets on AWS, optimizing data ingestion by 33% for forecasting and supply chain analytics.",
+        "Resolved over 200+ bugs on a real-time system supporting 500+ clients, improving system reliability and performance."
+      ],
     },
     {
-      company: "Digital Agency",
-      position: "Frontend Developer",
-      period: "2016 - 2018",
-      description: "Developed responsive websites and applications for various clients using modern frontend technologies.",
+      company: "Tegasys Solutions",
+      position: "Software Engineering Intern",
+      period: "06/2021 - 11/2021",
+      description: [
+        "Developed cross-platform mobile applications using Kotlin for Android and Swift for iOS, streamlining business operations and improving user experience.",
+        "Automated business relationship management tasks, enhancing reliability and service delivery by integrating mobile app notifications and scheduling features.",
+        "Collaborated with a team of developers to ensure seamless mobile app deployment, following Agile methodologies for efficient project management."
+      ],
     },
   ];
 

@@ -13,8 +13,8 @@ export default function About() {
           </div>
           <div>
             <p className="text-lg text-gray-600 mb-6">
-              I'm a passionate Full Stack Developer with over 5 years of experience in building web applications. 
-              I specialize in React, Node.js, and cloud technologies, with a strong focus on creating scalable 
+              I'm a passionate Full Stack Developer with over 2 years of experience in building and deploying full stack applications. 
+              I specialize in Python, React, Node.js, AWS and cloud technologies, with a strong focus on creating scalable 
               and user-friendly solutions.
             </p>
             <p className="text-lg text-gray-600 mb-6">
@@ -28,7 +28,7 @@ export default function About() {
               </div>
               <div className="p-4 bg-gray-50 rounded-lg">
                 <h3 className="font-semibold mb-2">Backend</h3>
-                <p className="text-gray-600">Node.js, Python, PostgreSQL</p>
+                <p className="text-gray-600">Python, Go, Node.js, PostgreSQL</p>
               </div>
             </div>
           </div>

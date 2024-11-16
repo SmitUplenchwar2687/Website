@@ -5,7 +5,7 @@ export default function Hero() {
     <section id="home" className="min-h-screen flex items-center justify-center relative bg-gradient-to-br from-blue-50 to-indigo-50">
       <div className="text-center px-4">
         <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-          Hello, I'm John Doe
+          Hello, I'm Smit Uplenchwar
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 mb-8">
           Full Stack Developer & Tech Enthusiast

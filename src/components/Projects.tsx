@@ -3,20 +3,20 @@ import { Github, ExternalLink } from 'lucide-react';
 export default function Projects() {
   const projects = [
     {
-      title: "E-commerce Platform",
-      description: "A full-featured e-commerce platform built with React, Node.js, and PostgreSQL.",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80",
-      github: "https://github.com",
+      title: "Pablo's Therapy",
+      description: "Developed a multilingual voice therapy session application powered by generative AI.",
+      image: "https://unsplash.com/photos/brown-concrete-building-during-daytime-nJupV3AOP-U?auto=format&fit=crop&q=80",
+      github: "https://github.com/SmitUplenchwar2687/Pablo-s-Therapy",
       live: "https://example.com",
-      tags: ["React", "Node.js", "PostgreSQL"],
+      tags: ["Python", "WebSocket", "Flutter", "Dart", "MongoDB"],
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates.",
-      image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80",
-      github: "https://github.com",
+      title: "Rice Crop Disease Detection",
+      description: "Built a rice crop disease detection model with UAV using Machine Learning and Image Processing",
+      image: "https://unsplash.com/photos/green-grass-field-near-mountain-during-daytime-84JgyHGljkA?auto=format&fit=crop&q=80",
+      github: "https://github.com/SmitUplenchwar2687/Rice-Crop-Disease-Detection",
       live: "https://example.com",
-      tags: ["React", "Firebase", "Tailwind"],
+      tags: ["Python", "TenserFlow", "Pillow"],
     },
     {
       title: "AI Chat Interface",
